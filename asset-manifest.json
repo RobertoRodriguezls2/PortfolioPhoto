@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/PortfolioPhoto/static/css/main.fcee2069.css",
-    "main.js": "/PortfolioPhoto/static/js/main.c8e3ee30.js",
-    "static/js/787.1ed0c42c.chunk.js": "/PortfolioPhoto/static/js/787.1ed0c42c.chunk.js",
-    "static/media/2.jpg": "/PortfolioPhoto/static/media/2.45595bc3c52b106f5d37.jpg",
-    "static/media/Land.jpg": "/PortfolioPhoto/static/media/Land.45595bc3c52b106f5d37.jpg",
-    "static/media/3.jpg": "/PortfolioPhoto/static/media/3.9ae307e55f6b2b57530e.jpg",
-    "static/media/Drone.jpg": "/PortfolioPhoto/static/media/Drone.5e1d3bcec91f95f237bf.jpg",
-    "static/media/1.jpg": "/PortfolioPhoto/static/media/1.8262c7e7b9dd424069be.jpg",
-    "static/media/Port.jpg": "/PortfolioPhoto/static/media/Port.20f576b4848c9118f934.jpg",
-    "static/media/Auto.jpg": "/PortfolioPhoto/static/media/Auto.25a82827bbf248cee4e7.jpg",
-    "index.html": "/PortfolioPhoto/index.html",
-    "main.fcee2069.css.map": "/PortfolioPhoto/static/css/main.fcee2069.css.map",
-    "main.c8e3ee30.js.map": "/PortfolioPhoto/static/js/main.c8e3ee30.js.map",
-    "787.1ed0c42c.chunk.js.map": "/PortfolioPhoto/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/portfoliophoto/static/css/main.fcee2069.css",
+    "main.js": "/portfoliophoto/static/js/main.a248fdd4.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfoliophoto/static/js/787.1ed0c42c.chunk.js",
+    "static/media/2.jpg": "/portfoliophoto/static/media/2.45595bc3c52b106f5d37.jpg",
+    "static/media/Land.jpg": "/portfoliophoto/static/media/Land.45595bc3c52b106f5d37.jpg",
+    "static/media/3.jpg": "/portfoliophoto/static/media/3.9ae307e55f6b2b57530e.jpg",
+    "static/media/Drone.jpg": "/portfoliophoto/static/media/Drone.5e1d3bcec91f95f237bf.jpg",
+    "static/media/1.jpg": "/portfoliophoto/static/media/1.8262c7e7b9dd424069be.jpg",
+    "static/media/Port.jpg": "/portfoliophoto/static/media/Port.20f576b4848c9118f934.jpg",
+    "static/media/Auto.jpg": "/portfoliophoto/static/media/Auto.25a82827bbf248cee4e7.jpg",
+    "index.html": "/portfoliophoto/index.html",
+    "main.fcee2069.css.map": "/portfoliophoto/static/css/main.fcee2069.css.map",
+    "main.a248fdd4.js.map": "/portfoliophoto/static/js/main.a248fdd4.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfoliophoto/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fcee2069.css",
-    "static/js/main.c8e3ee30.js"
+    "static/js/main.a248fdd4.js"
   ]
 }
