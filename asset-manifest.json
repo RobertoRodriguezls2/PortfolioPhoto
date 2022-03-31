@@ -1,22 +1,32 @@
 {
   "files": {
-    "main.css": "/PortfolioPhoto/static/css/main.fcee2069.css",
-    "main.js": "/PortfolioPhoto/static/js/main.2c7ea2dd.js",
+    "main.css": "/PortfolioPhoto/static/css/main.12cbf87f.css",
+    "main.js": "/PortfolioPhoto/static/js/main.fbdc1af1.js",
     "static/js/787.1ed0c42c.chunk.js": "/PortfolioPhoto/static/js/787.1ed0c42c.chunk.js",
-    "static/media/2.jpg": "/PortfolioPhoto/static/media/2.45595bc3c52b106f5d37.jpg",
+    "static/media/2.jpg": "/PortfolioPhoto/static/media/2.416d5b1576105bba5e2f.jpg",
+    "static/media/4.jpg": "/PortfolioPhoto/static/media/4.d85e1877d06609d1362e.jpg",
+    "static/media/1.jpg": "/PortfolioPhoto/static/media/1.86f2c41db0ac4e42b872.jpg",
+    "static/media/7.jpg": "/PortfolioPhoto/static/media/7.45595bc3c52b106f5d37.jpg",
     "static/media/Land.jpg": "/PortfolioPhoto/static/media/Land.45595bc3c52b106f5d37.jpg",
-    "static/media/3.jpg": "/PortfolioPhoto/static/media/3.9ae307e55f6b2b57530e.jpg",
+    "static/media/12.jpg": "/PortfolioPhoto/static/media/12.853ade3a8a206fcb9986.jpg",
+    "static/media/3.jpg": "/PortfolioPhoto/static/media/3.6c135c8a9bfa2fc00a1f.jpg",
+    "static/media/9.jpg": "/PortfolioPhoto/static/media/9.1a208a2fa7d2b5ef8e1d.jpg",
+    "static/media/8.jpg": "/PortfolioPhoto/static/media/8.ba767aa3ad6c8c8053e2.jpg",
+    "static/media/5.jpg": "/PortfolioPhoto/static/media/5.db2438a8245bef948c2d.jpg",
     "static/media/Drone.jpg": "/PortfolioPhoto/static/media/Drone.5e1d3bcec91f95f237bf.jpg",
-    "static/media/1.jpg": "/PortfolioPhoto/static/media/1.8262c7e7b9dd424069be.jpg",
+    "static/media/13.jpg": "/PortfolioPhoto/static/media/13.8262c7e7b9dd424069be.jpg",
+    "static/media/6.jpg": "/PortfolioPhoto/static/media/6.35330985f48b54c7fabf.jpg",
     "static/media/Port.jpg": "/PortfolioPhoto/static/media/Port.20f576b4848c9118f934.jpg",
     "static/media/Auto.jpg": "/PortfolioPhoto/static/media/Auto.25a82827bbf248cee4e7.jpg",
+    "static/media/10.jpg": "/PortfolioPhoto/static/media/10.ea0a12cac537d0cf98a7.jpg",
+    "static/media/11.jpg": "/PortfolioPhoto/static/media/11.66c14bd26de791cea9f3.jpg",
     "index.html": "/PortfolioPhoto/index.html",
-    "main.fcee2069.css.map": "/PortfolioPhoto/static/css/main.fcee2069.css.map",
-    "main.2c7ea2dd.js.map": "/PortfolioPhoto/static/js/main.2c7ea2dd.js.map",
+    "main.12cbf87f.css.map": "/PortfolioPhoto/static/css/main.12cbf87f.css.map",
+    "main.fbdc1af1.js.map": "/PortfolioPhoto/static/js/main.fbdc1af1.js.map",
     "787.1ed0c42c.chunk.js.map": "/PortfolioPhoto/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.fcee2069.css",
-    "static/js/main.2c7ea2dd.js"
+    "static/css/main.12cbf87f.css",
+    "static/js/main.fbdc1af1.js"
   ]
 }
