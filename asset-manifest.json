@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/PortfolioPhoto/static/css/main.12cbf87f.css",
-    "main.js": "/PortfolioPhoto/static/js/main.25699b89.js",
+    "main.css": "/PortfolioPhoto/static/css/main.32364623.css",
+    "main.js": "/PortfolioPhoto/static/js/main.d06083d3.js",
     "static/js/787.1ed0c42c.chunk.js": "/PortfolioPhoto/static/js/787.1ed0c42c.chunk.js",
     "static/media/2.jpg": "/PortfolioPhoto/static/media/2.416d5b1576105bba5e2f.jpg",
+    "static/media/websitegif.gif": "/PortfolioPhoto/static/media/websitegif.3af66ec9d5d052b8047e.gif",
     "static/media/4.jpg": "/PortfolioPhoto/static/media/4.d85e1877d06609d1362e.jpg",
     "static/media/1.jpg": "/PortfolioPhoto/static/media/1.86f2c41db0ac4e42b872.jpg",
     "static/media/7.jpg": "/PortfolioPhoto/static/media/7.45595bc3c52b106f5d37.jpg",
@@ -20,13 +21,14 @@
     "static/media/Auto.jpg": "/PortfolioPhoto/static/media/Auto.25a82827bbf248cee4e7.jpg",
     "static/media/10.jpg": "/PortfolioPhoto/static/media/10.ea0a12cac537d0cf98a7.jpg",
     "static/media/11.jpg": "/PortfolioPhoto/static/media/11.66c14bd26de791cea9f3.jpg",
+    "static/media/arduino.jpg": "/PortfolioPhoto/static/media/arduino.eb59c616b8f26cc0e22c.jpg",
     "index.html": "/PortfolioPhoto/index.html",
-    "main.12cbf87f.css.map": "/PortfolioPhoto/static/css/main.12cbf87f.css.map",
-    "main.25699b89.js.map": "/PortfolioPhoto/static/js/main.25699b89.js.map",
+    "main.32364623.css.map": "/PortfolioPhoto/static/css/main.32364623.css.map",
+    "main.d06083d3.js.map": "/PortfolioPhoto/static/js/main.d06083d3.js.map",
     "787.1ed0c42c.chunk.js.map": "/PortfolioPhoto/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12cbf87f.css",
-    "static/js/main.25699b89.js"
+    "static/css/main.32364623.css",
+    "static/js/main.d06083d3.js"
   ]
 }
