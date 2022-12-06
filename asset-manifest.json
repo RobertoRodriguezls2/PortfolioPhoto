@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.22544484.css",
-    "main.js": "/static/js/main.bbec8d1c.js",
+    "main.css": "/static/css/main.69a93fa7.css",
+    "main.js": "/static/js/main.f688b550.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/websitegif.gif": "/static/media/websitegif.cf810ac0ffc8d46bcdfc.gif",
     "static/media/4.jpg": "/static/media/4.7952b37faf2c5aa9f697.jpg",
@@ -24,12 +24,12 @@
     "static/media/arduino.jpg": "/static/media/arduino.3c8bbad5ef617e0686e2.jpg",
     "static/media/websiteLogo.png": "/static/media/websiteLogo.fa2297cb9f9eb76d9044.png",
     "index.html": "/index.html",
-    "main.22544484.css.map": "/static/css/main.22544484.css.map",
-    "main.bbec8d1c.js.map": "/static/js/main.bbec8d1c.js.map",
+    "main.69a93fa7.css.map": "/static/css/main.69a93fa7.css.map",
+    "main.f688b550.js.map": "/static/js/main.f688b550.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.22544484.css",
-    "static/js/main.bbec8d1c.js"
+    "static/css/main.69a93fa7.css",
+    "static/js/main.f688b550.js"
   ]
 }
